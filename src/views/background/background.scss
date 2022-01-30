@@ -1,0 +1,6 @@
+p {
+  color: orange;
+  &::first-letter {
+    text-transform: uppercase;
+  }
+}
